@@ -1,0 +1,1 @@
+{"name":"nutricloud-functions","private":true,"engines":{"node":"20"},"scripts":{"build":"tsc","serve":"firebase emulators:start --only functions","deploy":"firebase deploy --only functions"},"dependencies":{"firebase-admin":"latest","firebase-functions":"latest"},"devDependencies":{"typescript":"latest","@types/node":"latest"}}
